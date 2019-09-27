@@ -1,0 +1,8 @@
+Wonkyo Choe (1):
+      Initial commit
+
+codikh@ajou.ac.kr (4):
+      build_cache 끝
+      access_cache Writeback이 안맞음.
+      Wikipedia(cache(computing))보고 문제점을 알고 끝냄.
+      contribution 추가.
